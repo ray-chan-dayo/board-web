@@ -1,6 +1,7 @@
 .card {
   width:400px;
   height:250px;
+  box-shadow: 2px 2px 4px;
 }
 .thumbnail-card {
   width:100%;
