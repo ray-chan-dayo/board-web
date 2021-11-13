@@ -6,3 +6,7 @@
 .thumbnail-card {
   width:100%;
 }
+.description-card {
+  font-size:20px;
+  font-weight:bold;
+}
