@@ -2,7 +2,7 @@
   width:400px;
   height:250px;
   box-shadow: 2px 2px 4px;
-  margin:auto
+  margin:10px
 }
 .thumbnail-card {
   width:100%;
@@ -10,4 +10,9 @@
 .description-card {
   font-size:20px;
   font-weight:bold;
+}
+.cardlist {
+  display:flex;
+  justify-content: center;
+  align-items: center;
 }
